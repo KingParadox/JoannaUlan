@@ -115,15 +115,18 @@ body, html {
 </div>
 
 <!-- Container (About Section) -->
-<div class="w3-content w3-container w3-padding-64" id="about">
+<div class="w3-content w3-container w3-padding-64" id="about" style="text-align: justify;text-justify: inter-word;">
   <h3 class="w3-center">O MNIE</h3>
-  <p class="w3-center"><em><b>Bio</b></em></p>
-  <p> Academy of Fine Arts - Wrocław -Poland - 2005
-  <p> <p class="w3-center"><em><b>Diploma in painting and graphics</b></em></p>
- 
- Akademia Sztuk Pięknych - Wrocław - 2005
-Dyplom z malarstwa i grafiki
- Kompozycja i kolor to dwa najważniejsze elementy w mojej pracy. Malarstwo i projekty małych kolaży . Swój talent wykorzystuję do współpracy.W 2007 roku byłam głównym projektantem ekskluzywnej, wieczorowej kolekcji "Jesień - Zima 2008" ,dla firmy "welle".</p>
+	<p class="w3-center"><em><b>Bio</b></em></p>
+	<p> <p><em><b>Academy of Fine Arts - Wrocław - Poland - 2005</b></em></p>
+  <p> 
+	<p><em><b>Diploma in painting and graphics</b></em></p>
+	<p><em><b>Akademia Sztuk Pięknych - Wrocław - 2005</b></em></p>
+	<p><em><b>Dyplom z malarstwa i grafiki</b></em></p>
+		<p>Kompozycja i kolor to dwa najważniejsze elementy w mojej pracy. Malarstwo i projekty małych kolaży. Swój talent wykorzystuję do współpracy. 
+		<br>W 2007 roku byłam głównym projektantem ekskluzywnej, wieczorowej kolekcji "Jesień - Zima 2008", dla firmy "welle".
+		</p>
+ </p>
   <div class="w3-row">
   
   
