@@ -89,7 +89,7 @@ body, html {
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   }
 
 
@@ -148,7 +148,7 @@ body, html {
     </div>
 
     <!-- Hide this text on small devices -->
-    <div class="w3-col m6 w3-hide-small w3-padding-large">
+    <div class="w3-col m6 w3-padding-large">
       <p> <p class="w3-center"><em><b>Wystawy indywidualne</b></em></p>
 <b>2000</b>- Wystawa malarstwa - Gaggenau - Niemcy <br>
 <b>2004</b> - Prezentacja malarstwa w "Pasażu Pod Błękitnym Słóńcem " - Wrocław <br>
