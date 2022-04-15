@@ -187,7 +187,7 @@ body, html {
   <!-- SEKCJA OBRAZÓW -->
   <div class="w3-row-padding w3-center">
     <div class="w3-third filterDiv painting">
-      <img src="Media/Galeria/1.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist over the mountains">
+      <img src="Media/Galeria/1.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Woman  40x40  oil on canvas <br> Kobieta 40x40 olej na płótnie">
     </div>
 
     <div class="w3-third filterDiv painting">
@@ -331,7 +331,7 @@ body, html {
 	
 	
   </div>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  <p>Joanna Ulan 2022</p>
 </footer>
  
 <script>
