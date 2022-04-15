@@ -141,7 +141,7 @@ body, html {
     <!-- Hide this text on small devices -->
     <div class="w3-col m6 w3-hide-small w3-padding-large">
       <p> <p class="w3-center"><em><b>Wystawy indywidualne</b></em></p>
-<b>2000</b> - Wystawa malarstwa - Gaggenau - Niemcy <br>
+<b>2000</b>- Wystawa malarstwa - Gaggenau - Niemcy <br>
 <b>2004</b> - Prezentacja malarstwa w "Pasażu Pod Błękitnym Słóńcem " - Wrocław <br>
 <b>2005</b> - Wystawa malarstwa i grafiki - BWA -Wrocław<br>
 <b>2006</b> - Wernisaż malarstwa sponsorowany przez Consulenti al Quadrato w "Platonie" - Wrocław<br>
@@ -187,29 +187,29 @@ body, html {
   <!-- SEKCJA OBRAZÓW -->
   <div class="w3-row-padding w3-center">
     <div class="w3-third filterDiv painting">
-      <img src="Media/Galeria/1.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Woman  40x40  oil on canvas <br> Kobieta 40x40 olej na płótnie">
+      <img src="Media/Galeria/1.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Woman  40x40  oil on canvas <br> Kobieta 40x40 olej na płótnie">
     </div>
 
     <div class="w3-third filterDiv painting">
-      <img src="Media/Galeria/2.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Coffee beans">
+      <img src="Media/Galeria/2.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Balloon  30x30 oil on canvas <br> Balon 30x30 olej na płótnie">
     </div>
 
     <div class="w3-third filterDiv painting">
-      <img src="Media/Galeria/4.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Quiet ocean">
+      <img src="Media/Galeria/4.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="White shirt 40x40 oil on canvas <br> Biała koszula 40x40 olej na płótnie">
     </div>
   </div>
 
   <div class="w3-row-padding w3-center w3-section">
     <div class="w3-third filterDiv painting">
-      <img src="Media/Galeria/5.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist">
+      <img src="Media/Galeria/5.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Graces and cats 100x100 oil on canvas <br> Gracje i koty 100x100 olej na płótnie">
     </div>
 
     <div class="w3-third filterDiv painting">
-      <img src="Media/Galeria/6.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="My beloved typewriter">
+      <img src="Media/Galeria/6.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Lolita  120x146 oil on canvas">
     </div>
 
  <div class="w3-third filterDiv painting">
-	  <img src="Media/Galeria/3.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Bear closeup">
+	  <img src="Media/Galeria/3.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Time force  75x140 oil on canvas <br> Siła czasu 75x140 olej na płótnie">
     </div>
 	
 
@@ -219,60 +219,60 @@ body, html {
 	
  <div class="w3-row-padding w3-center">
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/7.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist over the mountains">
+      <img src="Media/Galeria/7.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #1 - Disco">
     </div>
 
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/8.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Coffee beans">
+      <img src="Media/Galeria/8.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #2 - Red car <br> Czerwony samochód">
     </div>
 
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/9.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Quiet ocean">
+      <img src="Media/Galeria/9.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #3 - My queen <br> Moja królowa">
     </div>
   </div>
 	
 	
   <div class="w3-row-padding w3-center w3-section">
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/10.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist">
+      <img src="Media/Galeria/10.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #4 - Red <br> Czerwony">
     </div>
 
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/11.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="My beloved typewriter">
+      <img src="Media/Galeria/11.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #5">
     </div>
 
  <div class="w3-third filterDiv collage">
-	  <img src="Media/Galeria/12.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Bear closeup">
+	  <img src="Media/Galeria/12.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #6">
     </div>
 
   </div>
   
   <div class="w3-row-padding w3-center">
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/13.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist over the mountains">
+      <img src="Media/Galeria/13.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #7">
     </div>
 
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/14.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Coffee beans">
+      <img src="Media/Galeria/14.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #8">
     </div>
 
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/15.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Quiet ocean">
+      <img src="Media/Galeria/15.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #9">
     </div>
   </div>
   
   
    <div class="w3-row-padding w3-center w3-section">
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/16.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="The mist">
+      <img src="Media/Galeria/16.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #10">
     </div>
 
     <div class="w3-third filterDiv collage">
-      <img src="Media/Galeria/19.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="My beloved typewriter">
+      <img src="Media/Galeria/19.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #11">
     </div>
 
  <div class="w3-third filterDiv collage">
-	  <img src="Media/Galeria/18.jpg" style="width:100%; height:350px;" onclick="onClick(this)" class="w3-hover-opacity" alt="Bear closeup">
+	  <img src="Media/Galeria/18.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #12">
     </div>
 
   </div>
@@ -308,9 +308,9 @@ body, html {
     </div>
     <div class="w3-third w3-panel">
       <div class="w3-large w3-margin-bottom">
-        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Chicago, US<br>
-        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Phone: +00 151515<br>
-        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Email: mail@mail.com<br>
+        <i class="fa fa-map-marker fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i> Polska<br>
+        <i class="fa fa-phone fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i>+48 734 128 817<br>
+        <i class="fa fa-envelope fa-fw w3-hover-text-black w3-xlarge w3-margin-right"></i>joanna.info@gmail.com<br>
       </div>
     </div>
   </div>
@@ -322,7 +322,7 @@ body, html {
   <div class="w3-xlarge w3-section">
   
   
-	<a href="https://www.facebook.com/joanna.ulan1">
+	<a href="https://www.facebook.com/ulan.joanna">
     <i class="fa fa-facebook-official w3-hover-opacity"></i></a>
 	
 	
@@ -331,7 +331,7 @@ body, html {
 	
 	
   </div>
-  <p>Joanna Ulan 2022</p>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
  
 <script>
