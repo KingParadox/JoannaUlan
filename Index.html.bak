@@ -1,12 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Joanna Ulan - Collage & Painting</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title>Joanna Ulan - Collage & Painting</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="icon" type="image/png" href="media\webicon.png" />
+
+    <meta name="description" content="Kompozycja i kolor to dwa najważniejsze elementy w mojej pracy. Malarstwo i projekty małych kolaży. Tematem przewodnim jest kobieta, jej piękno, czar. Interpretuję to, co postrzegam i mnie otacza.">
+    <meta name="keywords" content="Joanna, Ulan, Malarstwo, Kolaże">
+    <meta name="author" content="Joanna Ulan">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:title" content="Joanna Ulan" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://JoannaUlan.com/" />
+    <meta property="og:site_name" content="Joanna Ulan - Collage & Painting" />
+    <meta property="og:image" content="https://i.ibb.co/89b72xK/logo.jpg" />
+    <meta property="og:description" content="Kompozycja i kolor to dwa najważniejsze elementy w mojej pracy. Malarstwo i projekty małych kolaży. Tematem przewodnim jest kobieta, jej piękno, czar. Interpretuję to, co postrzegam i mnie otacza." />
+    <meta property="fb:app_id" content="280980789928670" />
+
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
 body, html {
@@ -91,6 +105,8 @@ body, html {
 
 
 </style>
+
+
 </head>
 <body>
 
@@ -124,13 +140,9 @@ body, html {
 <div class="w3-content w3-container w3-padding-64" id="about" style="text-align: justify;text-justify: inter-word;">
   <h3 class="w3-center">O MNIE</h3>
 	<p class="w3-center"><em><b>Bio</b></em></p>
-	<p> <p><em><b>Academy of Fine Arts - Wrocław - Poland - 2005</b></em></p>
-  <p> 
-	<p><em><b>Diploma in painting and graphics</b></em></p>
 	<p><em><b>Akademia Sztuk Pięknych - Wrocław - 2005</b></em></p>
 	<p><em><b>Dyplom z malarstwa i grafiki</b></em></p>
-		<p>Kompozycja i kolor to dwa najważniejsze elementy w mojej pracy. Malarstwo i projekty małych kolaży. Swój talent wykorzystuję do współpracy. 
-		<br>W 2007 roku byłam głównym projektantem ekskluzywnej, wieczorowej kolekcji "Jesień - Zima 2008", dla firmy "welle".
+		<p>Kompozycja i kolor to dwa najważniejsze elementy w mojej pracy. Malarstwo i projekty małych kolaży. Tematem przewodnim jest kobieta, jej piękno, czar. Interpretuję to, co postrzegam i mnie otacza.
 		</p>
  </p>
   <div class="w3-row">
@@ -152,10 +164,11 @@ body, html {
 <b>2005</b> - Wystawa malarstwa i grafiki - BWA -Wrocław<br>
 <b>2006</b> - Wernisaż malarstwa sponsorowany przez Consulenti al Quadrato w "Platonie" - Wrocław<br>
 <b>2007</b> - Prezentacja malarstwa w salonie samochodowym HYUNDAI - Wrocław<br>
-<b>2008</b> - Wystawa malarstwa w salonie samochodowym Mercedes - Wrocław<br>
+<b>2008</b> - Wystawa malarstwa w Jazz Klub Rura - Wrocław.<br>
+<b>2009</b> - Wystawa malarstwa w salonie samochodowym Mercedes - Wrocław<br>
           Wystawa towarzyszyła wprowadzeniu nowego modelu samochodu tej marki na Polskę.<br>
 <b>2010</b> - Wystawa malarstwa w Jazz Klub Rura - Wrocław<br>
-         Wystawa towarzysząca otwarciu klubu Międzynarodowego Festiwalu Teatralnego "Dialog - Wrocław)<br>
+         Wystawa towarzysząca otwarciu klubu Międzynarodowego Festiwalu Teatralnego "Dialog - Wrocław"<br>
 <b>2018</b> - Wystawa malarstwa - MOK -Kędzierzyn-Kożle<br>
 
       <p> <p class="w3-center"><em><b>Konkursy</b></em></p>
@@ -217,9 +230,11 @@ body, html {
  <div class="w3-third filterDiv painting">
 	  <img src="Media/Galeria/3.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Time force  75x140 oil on canvas <br> Siła czasu 75x140 olej na płótnie">
     </div>
-	
-
   </div>
+  
+  
+  
+  
   
   	<!-- SEKCJA KOLAŻY -->
 	
@@ -282,8 +297,19 @@ body, html {
     </div>
 
   </div>
+  
+  <div class="w3-row-padding w3-center">
+    <div class="w3-third filterDiv painting">
+      <img src="Media/Galeria/20.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Dandys 120x90 olej na płótnie">
+    </div>
+
+    <div class="w3-third filterDiv collage">
+      <img src="Media/Galeria/21.jpg" style="width:100%; height:350px; object-fit: cover;" onclick="onClick(this)" class="w3-hover-opacity" alt="Kolaż #10 - Czarny samochód">
+    </div>
+
+  </div>
 	
-	
+	<!-- KONIEC SEKCJI KOLAŻY -->
 	
   
 </div>
